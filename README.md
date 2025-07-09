@@ -14,8 +14,7 @@ My name is Rael and I recently completed my high school education at ETEC Dra. R
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### 🧠 Interesses Além da Tecnologia:
 
-I am enthusiastic about leveraging my experiences in the tech industry and contributing to innovative projects, solving and dealing with job market situations.
+### 🧠 Personal Interests:
 
-In my free time, I enjoyed exploring different forms of dance and physical activity, practicing capoeira and break dancing for a period. Nowadays, I spend most of my time listening to rap and R&B songs, and I'm having an experience with discussion and information about investment and the financial market.
+In my free time, I enjoy exploring investments and financial markets. I listen to rap and R&B music, and I also have a background in Capoeira and Breakdance.
