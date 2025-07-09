@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rael 💻
+## Hi there 👋 Welcome to my repository 💻📂
 
 My name is Rael and I recently completed my high school education at ETEC Dra. Ruth Cardoso, where I developed a strong foundation in technical and analytical skills. Currently, I am furthering my education by taking the CS50 course from Harvard, which has ignited my passion for computer science. In addition, I am enrolled in the Systems Analysis and Development program at the ETEC to gain hands-on experience and practical knowledge.
 
