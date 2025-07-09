@@ -14,6 +14,7 @@ My name is Rael and I recently completed my high school education at ETEC Dra. R
 ![JavaScript Logo](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python Logo](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP Logo](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL Badge](https://www.mysql.com/common/logos/powered-by-mysql-88x31.png)
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Logo](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -21,6 +22,8 @@ My name is Rael and I recently completed my high school education at ETEC Dra. R
 ![Angular Logo](https://img.shields.io/badge/-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js Logo](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS Logo](https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
 
 
 ### 🧠 Personal Interests:
