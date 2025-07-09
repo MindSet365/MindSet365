@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Rael 💻
 
 My name is Rael and I recently completed my high school education at ETEC Dra. Ruth Cardoso, where I developed a strong foundation in technical and analytical skills. Currently, I am furthering my education by taking the CS50 course from Harvard, which has ignited my passion for computer science. In addition, I am enrolled in the Systems Analysis and Development program at the ETEC to gain hands-on experience and practical knowledge.
 
@@ -16,4 +16,6 @@ My name is Rael and I recently completed my high school education at ETEC Dra. R
 
 ### 🧠 Personal Interests:
 
-In my free time, I enjoy exploring investments and financial markets. I listen to rap and R&B music, and I also have a background in Capoeira and Breakdance.
+In my free time, I enjoy exploring investments and financial markets. 📈
+I listen to rap and R&B music, 
+and I also have a background in Capoeira and Breakdance.
