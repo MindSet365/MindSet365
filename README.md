@@ -14,7 +14,6 @@ My name is Rael and I recently completed my high school education at ETEC Dra. R
 ![TypeScript](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js Logo](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS Logo](https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![Python Logo](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP Logo](https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white)
