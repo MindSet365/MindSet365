@@ -1,6 +1,6 @@
 ## Hi there and welcome to my repository 👋 💻📂
 
-My name is Rael and I recently completed my high school education at ETEC Dra. Ruth Cardoso, where I developed a strong foundation in technical and analytical skills. Currently, I am furthering my education by taking the CS50 course from Harvard, which has ignited my passion for computer science. In addition, I am pursuing a technology degree in Systems Analysis and Development at FATEC Rubens Lara.
+My name is Rael, nice to meet you! I recently completed the CS50 course from Harvard, which has ignited my passion for computer science. Now, I am pursuing a technology degree in Systems Analysis and Development at FATEC Rubens Lara.
 
 ### 🌐 Get in touch:
 
