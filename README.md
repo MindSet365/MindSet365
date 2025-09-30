@@ -1,7 +1,7 @@
 ## Hi there and welcome to my repository 👋 📂 ✨
 
 My name is **Rael**, nice to meet you!  
-I recently completed the CS50 course from Harvard, which has ignited my passion for computer science and where I developed strong foundation in technical and analytical skills.
+I recently completed the **CS50 course from Harvard**, which has ignited my passion for computer science and where I developed strong foundation in technical and analytical skills.
 
 Now, I am pursuing a technology degree in Systems Analysis and Development at FATEC Rubens Lara.
 
