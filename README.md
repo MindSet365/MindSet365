@@ -1,7 +1,8 @@
 ## Hi there and welcome to my repository 👋 📂 ✨
-<!-- Add two spaces with enter after the ...meet you! -->
-My name is **Rael**, nice to meet you!  
-I recently completed the CS50 course from Harvard, which has ignited my passion for computer science and where I developed strong foundation in technical and analytical skills. 
+
+My name is **Rael**, nice to meet you!
+
+I recently completed the CS50 course from Harvard, which has ignited my passion for computer science and where I developed strong foundation in technical and analytical skills.
 
 Now, I am pursuing a technology degree in Systems Analysis and Development at FATEC Rubens Lara.
 
@@ -28,9 +29,6 @@ Now, I am pursuing a technology degree in Systems Analysis and Development at FA
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-## UI/UX Technologies:
-
-![Sketchfab](https://img.shields.io/badge/Sketchfab-1B9E78?style=for-the-badge&logo=sketchfab&logoColor=white)
 
 ## ⚙️ Backend, Scripting & Databases:
 
