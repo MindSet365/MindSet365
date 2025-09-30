@@ -12,7 +12,8 @@ Now, I am pursuing a technology degree in Systems Analysis and Development at FA
 
 <p>
 <a href="https://www.linkedin.com/in/raelcqs834/" rel="nofollow noreferrer">
-<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="32"> </a>
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="32">
+</a>
 </p>
 
 ---
