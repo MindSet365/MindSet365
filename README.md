@@ -28,6 +28,7 @@ Now, I am pursuing a technology degree in Systems Analysis and Development at FA
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+[![GSAP](https://img.shields.io/badge/GSAP-18BA1F?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/)
 
 ### ⚙️ Backend, Scripting & Databases:
 
