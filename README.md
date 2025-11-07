@@ -10,7 +10,7 @@ Now, I am pursuing a technology degree in Systems Analysis and Development at FA
 ### 🌐 Get in touch:
 
 <p>
-<a href="https://www.linkedin.com/in/raelcqs834/" rel="noopener noreferrer" >
+<a href="https://www.linkedin.com/in/raelcqs834/" target="_blank" rel="noopener noreferrer" >
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" width="32">
 </a>
 </p>
