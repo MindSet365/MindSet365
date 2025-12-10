@@ -30,19 +30,6 @@ Now, I am pursuing a technology degree in Systems Analysis and Development at FA
 [![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-18BA1F?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/)
 
-### ⚙️ Backend, Scripting & Databases:
-
-[![Python Logo](https://img.shields.io/badge/phyton-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP Logo](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### 🔬 Low-Level & System Development:
-
-[![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
-[![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
-
 ---
 
 ### 🧠 Personal Interests:
