@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a passionate web developer focused on building modern, performant, and visually engaging web applications.
 
-## 🚀 About Me
+## 👤 About Me
 
 *   **Focus:** Front-end and web development, interactive web experiences, and robust technical architectures.
 *   **Education:** Currently pursuing a degree in **Systems Analysis and Development** at FATEC Rubens Lara.
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a passionate web developer focused on buildin
 
 ## 🧠 Personal Interests
 
-Beyond coding, I am highly interested in **financial markets and investments**. I also have a strong background in rhythm and movement through **Capoeira and Breakdance**, and enjoy spending my downtime listening to **Rap and R&B**.
+Beyond coding, I am highly interested in **financial markets and investments**. I also have a strong background in rhythm and movement through **Capoeira and Breakdance**, and enjoy spending my downtime listening to **Rap and R&B music**.
 
 ---
 
