@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate web developer focused on buildin
 
 ## 🚀 About Me
 
-*   **Focus:** Front-end development, interactive web experiences, and robust technical architectures.
+*   **Focus:** Front-end and web development, interactive web experiences, and robust technical architectures.
 *   **Education:** Currently pursuing a degree in **Systems Analysis and Development** at FATEC Rubens Lara.
 *   **Foundations:** Proud graduate of Harvard's **CS50: Introduction to Computer Science**, which provided me with a rigorous foundation in software engineering principles and problem-solving.
 
